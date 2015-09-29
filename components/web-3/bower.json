@@ -1,0 +1,19 @@
+{
+	"name": "web-3",
+	"version": "0.1.0",
+	"description": "Web 3",
+	"license": "MIT",
+	"keywords": [
+			"amigame", "web", "component", "web-components"
+	],
+	"main": "index.html",
+	"ignore": [
+		"bower_components",
+		"components",
+		"node_modules"
+	],
+	"dependencies": {
+		"app" : "*",
+		"webcomponentsjs": "*"
+	}
+}
