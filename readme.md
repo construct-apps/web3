@@ -32,6 +32,7 @@ Distributed through [Makesites.org](http://makesites.org/)
 
 ### Trivia
 
+Custom element [web-3](https://github.com/amigame/web-3) developed and maintained by [Amigame](http://amigame.co/)
 
 ### License
 
