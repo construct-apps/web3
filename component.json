@@ -1,0 +1,20 @@
+{
+	"name": "web3",
+	"version": "0.0.1",
+	"private": true,
+	"description": "Construct Demo: Web3",
+	"license": "MIT",
+	"keywords": [
+			"construct", "demo", "web3", "component", "web-components"
+	],
+	"main": "index.html",
+	"ignore": [
+		"bower_components",
+		"components",
+		"node_modules"
+	],
+	"dependencies": {
+		"web-3" : "*",
+		"webcomponentsjs": "*"
+	}
+}
